@@ -1,0 +1,22 @@
+/*******************************************************
+    Template Name    : IDF - Interior & Furniture Design Studio Landing Page Template
+*******************************************************/
+.page .navbar-b.navbar-trans .nav-link{
+	color: #000;
+}
+.page .navbar-b h3{
+	color: #000;
+}
+.page .navbar-b i{
+	color: #000;
+}
+.page .nav-link{
+	color: #000 !important;
+}
+.contact-area .single-store-location p{
+	color: #fff;
+}
+.pages-area{
+	background: linear-gradient(182deg, #472f27, #472f27);
+	height: 112px;
+}
