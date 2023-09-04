@@ -1,5 +1,4 @@
-# simple.github.io
-Simple Websites and Pages
+# Simple Websites and Pages
 
 ---
 ## How to Download?
